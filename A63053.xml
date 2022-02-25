@@ -1,0 +1,420 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The traitors claim, or, A clear and impartial consideration of the security as to life, claimed by the condemned traitors now prisoners in the Tower of London, who rendred themselves, according to His Majesties proclamation, of the 8th of June 1660, by advice of the Lords and Commons, then assembled in Parliament in a letter written August 20th 1661, to a Honourable member of the House of Commons now sitting in Parliament.</title>
+            <author>Philoroy, Philopater.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1661</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 38 KB of XML-encoded text transcribed from 9 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A63053</idno>
+            <idno type="STC">Wing T2024</idno>
+            <idno type="STC">ESTC R18186</idno>
+            <idno type="EEBO-CITATION">12657972</idno>
+            <idno type="OCLC">ocm 12657972</idno>
+            <idno type="VID">65421</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A63053)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 65421)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 677:4)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The traitors claim, or, A clear and impartial consideration of the security as to life, claimed by the condemned traitors now prisoners in the Tower of London, who rendred themselves, according to His Majesties proclamation, of the 8th of June 1660, by advice of the Lords and Commons, then assembled in Parliament in a letter written August 20th 1661, to a Honourable member of the House of Commons now sitting in Parliament.</title>
+                  <author>Philoroy, Philopater.</author>
+               </titleStmt>
+               <extent>16 p.   </extent>
+               <publicationStmt>
+                  <publisher>[s.n.],</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1661.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Signed: Philopater Philoroy.</note>
+                  <note>Reproduction of original in Huntington Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Great Britain --  History --  Restoration, 1660-1688.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-08</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-08</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-01</date>
+            <label>Megan Marion</label>Sampled and proofread</change>
+         <change>
+            <date>2011-01</date>
+            <label>Megan Marion</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:65421:1"/>
+            <pb facs="tcp:65421:1"/>
+            <p>The Traitors CLAIM; OR A A Clear and Impartial CONSIDERATION OF THE Security as to Life,</p>
+            <p>Claimed by the Condemned <hi>TRAITORS</hi> now Priſoners in the Tower of <hi>London,</hi> who Rendred themſelves, according to his Majeſties <hi>Proclamation,</hi> of the 6th of <hi>June 1660.</hi> by Ad<g ref="char:EOLhyphen"/>vice of the Lords and Commons, then Aſſembled in <hi>Par<g ref="char:EOLhyphen"/>liament.</hi>
+            </p>
+            <p>IN A <hi>LETTER</hi> Written <hi>August</hi> 20th <hi>1661.</hi> to a Honourable Mem<g ref="char:EOLhyphen"/>ber of the Houſe of Commons, now ſitting in <hi>Parliament.</hi>
+            </p>
+            <q>
+               <bibl>1 <hi>Kings</hi> 2. 36, 37.</bibl>
+               <p>And the King ſent and called <hi>Shimei,</hi> and ſaid unto him, Build the a houſe in <hi>Jeruſalem,</hi> and go not forth from thence any whither: for it ſhall be on that day, when thou goeſt out, and paſſeſt over the Brook<hi>-Kidron,</hi> thou ſhalt know for certain, thou ſhalt ſurely die; thy blood ſhall be upon thine own head.</p>
+            </q>
+            <q>
+               <bibl>Prov. 20. 28.</bibl>
+               <p>Mercy and Truth preſerves the King: and his Throne is eſtabliſhed by Mercy.</p>
+            </q>
+            <q>
+               <bibl>Juſtin.</bibl>
+               <p>Spectandum, an in conventione fulem <hi>Medorum</hi> Elegiſſent.</p>
+            </q>
+            <p>LONDON, <hi>Printed in the Year 1661.</hi>
+            </p>
+            <pb facs="tcp:65421:2"/>
+         </div>
+      </front>
+      <body>
+         <div type="letter">
+            <pb n="3" facs="tcp:65421:2"/>
+            <head>
+               <hi>The Traytors Claim of Security,</hi> &amp;c.</head>
+            <opener>
+               <salute>Honoured Sir,</salute>
+            </opener>
+            <p>AT your return into the Countrey, I received yours of the 10th inſtant, which ſignified your ſerious Debates, and Union in Parliament, in the matters which concern this Church and State. For this I thank you, and in this I re<g ref="char:EOLhyphen"/>joyce with you.</p>
+            <p>In your Letter you are pleaſed to put on me a task which you (know<g ref="char:EOLhyphen"/>ing me ſo wel) cannot but know, muſt needs be unpleaſant to me, <hi>viz.</hi> To conſider the Caſe of the Condemned Traitors now in the Tower, waiting for Execution; and impartially to communicate to you my thoughts, concerning the <hi>Security as to their Lives,</hi> which they chal<g ref="char:EOLhyphen"/>lenge, &amp; ſome on their behalfs plead; the <hi>Queſtion</hi> you have thus ſtated.</p>
+            <p>
+               <hi>Whether the Condemned Traitors, who rendred themſelves according to the</hi> Proclamation <hi>of his Majeſty, and on trial ſtand Condemned, may with</hi> Juſtice <hi>and</hi> Honour <hi>to the King and Kingdom, be Executed upon a Bill or Act of Parliament to be paſt for that purpoſe.</hi>
+            </p>
+            <p>Sir, I do not a little wonder you ſhould charge this work on me, who indeed am yours to my power, but at ſuch enmity with all Agents in that Barbarous Murther of our late King of glorious Memory, that I could with <hi>Tertullus</hi> accuſe them, better then with <hi>Gamaliel</hi> make the leaſt Apollogie (though never ſo Rational) for the <hi>Security</hi> of any one of them; How often have I imprecated God's vengeance on them? and attended the healths drunk to their confuſion; triumph<g ref="char:EOLhyphen"/>ed in their Conviction and Condemnation; and fretted at the Re<g ref="char:EOLhyphen"/>prieves of their <hi>Execution?</hi> Muſt I now by your Command be conſtrained to appear <hi>Advocate</hi> for their Blood, which ſpilt many years ſince might have prevented the ſpilling much Gallant, Noble, <hi>Engliſh</hi> Blood? yea (and what is ten thouſand times more pretious) the Royal Blood of the only Proteſtant King and Prince.</p>
+            <p>And really Sir, I ſhould adventure a denial of your Demands (your deſire deing ſo contrary to my Judgement) were I not awed into a compliance, by the tranſcendent ſplendor of his Majeſties Clemency, conjuring down the ſpirit of revenge, and all vindictive thoughts, raiſed by the late Rebellion; but (preſuming your enqui<g ref="char:EOLhyphen"/>ry to ſpring from the ſame Principle) I dare not but endeavour your Reſolution.</p>
+            <p>Sir, I muſt in this undertaking enquire, in what ſence, you under<g ref="char:EOLhyphen"/>ſtand
+<pb n="4" facs="tcp:65421:3"/>
+the tearm <hi>Juſtice?</hi> If ſtrictly and propperly as oppoſed to <hi>Wrong</hi> Who knows not that a Parliament (which may diſpoſe of all our Lives at pleaſure) may juſtly <hi>Execute</hi> thoſe, whom the Law, by a ju<g ref="char:EOLhyphen"/>dicial and regular proceſs, hath condemned? But foraſmuch as <hi>ſum<g ref="char:EOLhyphen"/>mum jus,</hi> warranted by our Laws, may ſeem <hi>(Jure Civili)</hi> to be <hi>ſum<g ref="char:EOLhyphen"/>ma injuria;</hi> (as it was in the Caſe of the renouned <hi>Tho. Cromwel,</hi> con<g ref="char:EOLhyphen"/>cerning whoſe attainder by Parliament, a judicious Lawyer hath ad<g ref="char:EOLhyphen"/>viſed, <note place="margin">
+                  <gap reason="illegible" resp="#UOM" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap> Cooke.</note> 
+               <hi>auſerat oblivio ſi poteſt, ſi non ut cunque ſilentium tegat)</hi> I muſt conceive by <hi>Juſtice</hi> you mean <hi>Equity,</hi> the Bridle of <hi>ſummum, jus,</hi> or <hi>Truth</hi> oppoſed unto <hi>breach of Faith;</hi> Your concomitant <hi>Honour</hi> is my Conduit to this interpretation, and then your Querie is,</p>
+            <p>
+               <hi>Whether the Condemned Priſoners, who rendred themſelves upon the</hi> Pro<g ref="char:EOLhyphen"/>clamation <hi>of his Majeſty, publiſhed by the Advice of his Parliament, being on Trial Convict, and Condemned, may with</hi> Equity, Truth, <hi>and</hi> Honour <hi>in King and Parliament, be Executed, on a Bill paſſed for that purpoſe.</hi>
+            </p>
+            <p>Sir, the Reſolve (my Judgement on deliberate thoughts doth com<g ref="char:EOLhyphen"/>pel me to give) to this Querie, is Negative, ſo repugnant to my for<g ref="char:EOLhyphen"/>mer fervor, and expreſſed deſire, that I am reduced to the ſtrait of the Lord <hi>Digbie</hi> in the Caſe of the late unhappy Earl of <hi>Strafford,</hi> and muſt expreſs it in his words, <hi>I am ſtill the ſame in mine opinions and af<g ref="char:EOLhyphen"/>fections</hi> 
+               <note place="margin">
+                  <gap reason="illegible" resp="#UOM" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap> 
+                  <hi>Dig<g ref="char:EOLhyphen"/>
+                     <gap reason="illegible" resp="#UOM" extent="1+ letters">
+                        <desc>•…</desc>
+                     </gap>
+                  </hi> Speech <gap reason="illegible" resp="#UOM" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>e Houſe. <gap reason="illegible" resp="#UOM" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap> Com<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#UOM" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>s, 21. <hi>
+                     <gap reason="illegible" resp="#UOM" extent="1+ letters">
+                        <desc>•…</desc>
+                     </gap>l,</hi> 1641</note> 
+               <hi>to the Earl; I confidently believe him (them) the moſt dangerous Miniſter of State, the moſt unſupportable to free ſubjects that can be Cha<g ref="char:EOLhyphen"/>ractered; I believe his (their) Practices in themſelves as high as ever Sub<g ref="char:EOLhyphen"/>ject ventured on; I believe him (them) the grand Apoſtate to the Common-wealth, who muſt not expect to be pardoned it, in this, till diſpatched into ano<g ref="char:EOLhyphen"/>ther World; And yet let me tell you Sir, my hand muſt not be to that diſ<g ref="char:EOLhyphen"/>patch; I proteſt as my Conſcience ſtands informed, I had rather it were off.</hi>
+            </p>
+            <p>Verily Sir, though theſe mens Crime is more obvious and notori<g ref="char:EOLhyphen"/>ous, (I humbly conceive) the reaſons which ſupercede their Exe<g ref="char:EOLhyphen"/>cution, are more weighty then were or could be by any pleaded in the Caſe of that Honourable Perſon, whoſe quallity and ſingularity, with the Popular out-cry, might (had his Conviction been juſt and clear) have neceſſitated his Execution, who had no ſecurity for his Life ſave his Princes favour; whilſt our condemned Priſoners cling cloſe to the <hi>Faith</hi> and <hi>Honour</hi> of their Soveraign, to keep them from the Gallowes; which Sir, I muſt (in ſobriety and plainneſs) tell you (if right reaſon muſt direct their Execution) will prevent their being turned off the Ladder, though they were tied up to the tree; and cauſe
+<pb n="5" facs="tcp:65421:3"/>
+them to be led back to Priſon, to be otherwiſe diſpoſed at his Ma<g ref="char:EOLhyphen"/>jeſtis pleaſure. But to come to the pinch of the Caſe, and Criſis of the Querie.</p>
+            <p>I read Sir in <hi>Juſtins</hi> Hiſtory, the <hi>Medes</hi> (the Empire not yet ob<g ref="char:EOLhyphen"/>tained) <note place="margin">
+                  <hi>Lib.</hi> 4. <gap reason="illegible" resp="#UOM" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>
+               </note> made certain Cities tributary, and conceded to them Im<g ref="char:EOLhyphen"/>munities and Liberties, larger than the Empire would allow; which once poſſeſſed, it was diſputed, <hi>Whether in Juſtice and Honour the for<g ref="char:EOLhyphen"/>mer indulged Priviledges muſt be maintained?</hi> to reſolve which, this rule was dictated, <hi>Spectandum eſt, an in Conventione fidem</hi> Medorum <hi>elegiſſent.</hi> It is to be conſidered, Whether they choſe, confided in the Faith of the <hi>Medes.</hi>
+            </p>
+            <p>Sir, the <hi>Publick Faith</hi> of any People and Nation is the moſt ſacred and inviolable Security that can be given; as the onely Bond of hu<g ref="char:EOLhyphen"/>mane Society, in ſo much that the Choſen, confided in ſence thereof, beyond the intent of the perſons plighting, or the ſtrict conſtructions of the Words, muſt be maintained and oblige; as is evident in the caſe of the <hi>Gibeonites,</hi> on which a late Prelate of our Church doth Com<g ref="char:EOLhyphen"/>ment; <hi>Joſhua might have taken advantage of their own words, &amp; have ſaid,</hi> 
+               <note place="margin">Biſhop<gap reason="illegible" resp="#UOM" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap> Contem<g ref="char:EOLunhyphen"/>plations, <hi>Page</hi> 91<gap reason="illegible" resp="#UOM" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap> 
+                  <hi>Grotius <gap reason="illegible" resp="#UOM" extent="1+ letters">
+                        <desc>•…</desc>
+                     </gap> jure Bell<gap reason="illegible" resp="#UOM" extent="1+ letters">
+                        <desc>•…</desc>
+                     </gap> Paeis. L<gap reason="illegible" resp="#UOM" extent="1+ letters">
+                        <desc>•…</desc>
+                     </gap>
+                  </hi> 2. <hi>Cap.</hi> 1<gap reason="illegible" resp="#UOM" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap> 
+                  <hi>Page</hi> 22<g ref="char:punc">▪</g>
+               </note> 
+               <hi>you are come from a far Country, theſe Cities are near, theſe are not there<g ref="char:EOLhyphen"/>fore the People to whom we are engaged;</hi> Iſrael <hi>had put in a direct Caveat againſt Vicinity;</hi> Joſhuah's <hi>heart was far from making a League with a Canaanite:</hi> Yet were theſe <hi>Gibeonites</hi> (condemned in the directions given by God concerning the <hi>Canaanites)</hi> ſecured as to their Lives; though not other Concernments and their Execution 300 years after by the authority of King <hi>Saul,</hi> judged a <hi>perfideous murther,</hi> avenged by the Lord, and only expiated by the blood of the Executioners po<g ref="char:EOLhyphen"/>ſterity.</p>
+            <p>If Sir, theſe have on any probable ground Choſen, confided in the <hi>Faith</hi> and <hi>Honour</hi> of our King and Kingdome; yet (whatſoever I have ſaid in the heat of revenge) I cannot but (in cool blood) commend the deliberation of his Majeſty and the Parliament, in the weighty matters of mens Lives, and confeſs, <hi>Secundae cogitationes ſunt meliores.</hi>
+            </p>
+            <p>For Sir, being put (by your Command) to conſider theſe Tray<g ref="char:EOLhyphen"/>tors claim, I am conſtrained to conclude for, and not againſt their Lives; of which they muſt needs be judged unworthy.</p>
+            <p>The ground of theſe mens claim as to the ſecurity of their Lives, is the <hi>Proclamation</hi> of his Majeſty the ſixth of <hi>June,</hi> 1660. by ad<g ref="char:EOLhyphen"/>vice of the Lords and Commons then in Parliament aſſembled, the tenor whereof is thus.</p>
+            <pb n="6" facs="tcp:65421:4"/>
+            <floatingText xml:lang="eng" type="proclamation">
+               <body>
+                  <p>
+                     <hi>Whereas</hi> Owen Roe, Auguſtine Garland, Robert Tichbourne, <hi>&amp;c. being deeply guilty of that moſt deteſtable and bloody Treaſon, in ſitting up<g ref="char:EOLhyphen"/>on, and giving Judgement againſt the Life of our Royal Father; and out of a ſence of their own guilt, have lately fled and obſcured themſelves, whereby they cannot be apprehended and brought to a</hi> perſonal Tryal <hi>for their ſaid Treaſons, according to Law. We do therefore by the advice of our Lords and Commons in Parliament aſſembled, Command, Publiſh and Declare, by this our Proclamation, That all and every the perſons be<g ref="char:EOLhyphen"/>fore named, ſhall within fourteen dayes next after the publiſhing of this our Royal Proclamation, perſonally appear, and render themſelves to our Speaker,</hi> &amp;c. <hi>UNDER PAIN OF BEING EXCEP<g ref="char:EOLhyphen"/>TED FROM ANY PARDON OR INDEMNITY, BOTH FOR THEIR RESPECTI<g ref="char:V">Ʋ</g>E LI<g ref="char:V">Ʋ</g>ES AND ESTATES.</hi>
+                  </p>
+               </body>
+            </floatingText>
+            <p>To this Proclamation theſe men have Conformed, and within the time limited, according to the directions given, they rendred them<g ref="char:EOLhyphen"/>ſelves to <hi>Tryal;</hi> Confiding in the <hi>Faith and Honour</hi> of the King on the advice of his <hi>Lords and Commons</hi> aſſembled in Parliament, as their ſecurity to eſcape the penalty, ſo as not to be <hi>excepted from all Pardon;</hi> but that their <hi>Eſtates</hi> being taken, their <hi>Lives</hi> (being the all left them, and liable to Execution) they doubt not, the Grace of this Proclamation intended to preſerve, to run out their courſe in Nature.</p>
+            <p>It muſt Sir, be granted, this Proclamation containeth <hi>no poſitive expreſs terms,</hi> which might fully ſpeak the intention of his Majeſty, and his Parliament, toward the Lives of theſe Miſcreants, and give an abſolute indiſputable ſecurity for them; nor indeed is this the Queſtion; for this granted, voideth not their claim; which is only this, <hi>Fidem Anglorum in conventione Elegimus,</hi> we choſe, confided in <hi>Englands</hi> Faith, in the Proclamation of the King on advice of Parliament. <note place="margin">
+                  <hi>
+                     <gap reason="illegible" resp="#UOM" extent="1+ letters">
+                        <desc>•…</desc>
+                     </gap>tius de <gap reason="illegible" resp="#UOM" extent="1+ letters">
+                        <desc>•…</desc>
+                     </gap>e belli &amp; <gap reason="illegible" resp="#UOM" extent="1+ letters">
+                        <desc>•…</desc>
+                     </gap>s lib.</hi> 2. <gap reason="illegible" resp="#UOM" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap> 13. <hi>pag.</hi> 
+                  <gap reason="illegible" resp="#UOM" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>. <hi>cap.</hi> 16. <gap reason="illegible" resp="#UOM" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>. 251.</note>
+            </p>
+            <p>Sir, all Civilians determine, the words of any Covenant to bind in that ſence which they <hi>underſtand and believe</hi> who are in them con<g ref="char:EOLhyphen"/>cerned, and to whom the ſecurity is by them engaged; otherwiſe ambiguous terms would fallaciouſly void all Covenants; and truly all human ſecurity, this (as I have before noted) was the caſe of the <hi>Gibeonites,</hi> beyond the intention and ſeeming expreſſions of <hi>Joſhua and his Princes.</hi>
+            </p>
+            <p>Sir, reſolving my ſelf into their Condition, to give a faithful and impartial Judgement (without paſſion or prejudice) on theſe mens claim; I humbly conceive there are many conſiderable things, which concurre and conſtitute this Royal Proclamation <hi>a full Moral ſecurity for their Lives,</hi> viz.</p>
+            <pb n="7" facs="tcp:65421:4"/>
+            <p>Firſt, the Proclamation is penned in a ſtile of Clemency, and the words bear to theſe men a moſt favourable Aſpect, being varied from the expreſſions uſual in a meer ſummons to Judgement. For</p>
+            <p n="1">1. It complains <hi>they were fled, obſcured themſelves, whereby they could not be apprehended and brought to a Perſonal and Legal Tryal;</hi> (not that they had <hi>eſcaped from Juſtice,</hi> the proper Plaint of a meer Summons) as if their Conviction and Condemnation were all inten<g ref="char:EOLhyphen"/>ded, whereupon they are <hi>required to appear and render themſelves to Tryal</hi> (not to Juſtice) for this Proclamation can exſpect no anſwer be<g ref="char:EOLhyphen"/>yond what it chargeth.</p>
+            <p n="2">2. The Proclamation is Sub paenâ, <hi>under pain of being excepted from Pardon,</hi> ſaith the Title; <hi>any Pardon both for Life and Estate,</hi> ſaith the Body of it; with terms of diſcrimination, implying <hi>the one being accep<g ref="char:EOLhyphen"/>ted, the other might be avoided on due perſonal appearance.</hi> Seeing to be drawn, hanged, and quartered, was the due pain aſſigned by the Law for their Offence and Treaſon, <hi>exception from Pardon</hi> was a new pain, on the new Offence of their <hi>Latency and Eſcape from Tryal,</hi> which if it imply not an immunity on their appearance, I muſt confeſs I am to ſeek what it ſignifieth, or intended to expreſs; and the Speech of King and Parliament muſt not be <hi>(vox &amp; preterea nihil,) inſignificant.</hi>
+            </p>
+            <p>Sir, ſo rational is this ground of Claim, made by theſe Condemned perſons, that the whole Parliament have on ſerious and mature de<g ref="char:EOLhyphen"/>bates (without once hearing theſe Delinquents Pleas) in a full formal Act of Parliament declared, <hi>That there were ſome conceived doubtful</hi> 
+               <note place="margin">
+                  <hi>Act of demnity pag.</hi> 32</note> 
+               <hi>words in the ſaid Proclamation; upon which the Perſons who rendred themſelves, and appeared according as was directed, did pretend to ſome Favour:</hi> Now Sir, who knoweth not that the doubtful terms of any Law muſt be expounded in favour to the Delinquent, <hi>Favores ſunt ampliandi.</hi>
+            </p>
+            <p>Sir, the terms in this Proclamation propound a new pain, on a new offence, corrigible within 14 dayes; and plainly imply <hi>ſome Favour,</hi> and an immunity from, and avoidancy of the pain; but to have <hi>their Lives ſpared,</hi> is the leaſt of Favours which can be implyed, expe<g ref="char:EOLhyphen"/>cted or pretended unto, by the <hi>conceived doubtful</hi> words, which bear a favourable ſound and Aſpect, and ſo cleerly engage a <hi>publick Faith</hi> for the ſecurity of their miſerable Life.</p>
+            <p>Secondly, <hi>Lex currit cum praxi,</hi> the Concomitants of this, Proclama<g ref="char:EOLhyphen"/>tion make the <hi>publick Faith</hi> a ſecurity for theſe mens Lives much more legible, by ſpelling and putting together theſe ſeveral Obſervations.</p>
+            <p n="1">1. His Majeſties Royal Declaration (in the time of his unjuſt
+<pb n="8" facs="tcp:65421:5"/>
+Exile) ever excepted out of the general Pardon by him graciouſly offered, <hi>only ſome few</hi> (not all) <hi>of the chief Authors</hi> (not ſecondary <note place="margin">
+                  <hi>
+                     <gap reason="illegible" resp="#UOM" extent="1+ letters">
+                        <desc>•…</desc>
+                     </gap>laration</hi> 
+                  <gap reason="illegible" resp="#UOM" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap> Dum<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#UOM" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>linge 16 <gap reason="illegible" resp="#UOM" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>g. 1650.</note> Inſtruments) <hi>of the Murder of his Royal Father;</hi> importing grace to be extended to others under the ſame ſtrict and general Guilt; and to whom if not to theſe?</p>
+            <p n="2">2. Theſe few were referred to the Exception of Parliament; yea <note place="margin">
+                  <hi>
+                     <gap reason="illegible" resp="#UOM" extent="1+ letters">
+                        <desc>•…</desc>
+                     </gap>laration</hi> 
+                  <gap reason="illegible" resp="#UOM" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap> Breda <gap reason="illegible" resp="#UOM" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap> 
+                  <hi>April</hi> 
+                  <gap reason="illegible" resp="#UOM" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>0.</note> of that adopted Parliament, in reſpect of which theſe men are de<g ref="char:EOLhyphen"/>nominated the <hi>Parliaments Priſoners;</hi> concerning whom I have been informed his Majeſty would never yet order one particular Circum<g ref="char:EOLhyphen"/>ſtance.</p>
+            <p n="3">3. The Commons in this Parliament, with His Majeſties know<g ref="char:EOLhyphen"/>ledge and conſent (as it hath been reported) did Vote <hi>ſeven and no more</hi> of the men of this capacity, to be wholly excepted from Mer<g ref="char:EOLhyphen"/>cy, both to Life and Eſtate.</p>
+            <p n="4">4. Conſidering many did obſcure themſelves, ſo as that their Con<g ref="char:EOLhyphen"/>viction (deſireable as to the Juſtice and Honour of the Nation) could not be effected, the Lords and Commons adviſed, and on their advice his Majeſty publiſhed this Proclamation for their <hi>perſonal appearance to Tryal only,</hi> and that on pain of being excepted from <hi>any Pardon,</hi> (the buſineſs then under Conſideration of Parliament) they having in their hands ſuch chief Authors of the Kings death, who were moſt obnoxious to Guilt, and proper Objects for ſeverity of Juſtice.</p>
+            <p n="5">5. Theſe perſons then Latent, ſecuring their own Lives, hearing of this Proclamation, did, (notwithſtanding the ſence of the Vul<g ref="char:EOLhyphen"/>gar, that <hi>appearance would ſecure their Lives,)</hi> demur to their appea<g ref="char:EOLhyphen"/>rance; until their Friends, (aſſured by many Honourable Members of Parliament, who beſt underſtood the Proclamation) adviſed, that <hi>Indemnity to Life</hi> was intended to ſuch as ſhould appear as was dire<g ref="char:EOLhyphen"/>cted; in confidence whereof (waving other means for their preſer<g ref="char:EOLhyphen"/>vation, within their own power) they appeared, rendered themſelves in time and manner adviſed; putting their Lives under the prote<g ref="char:EOLhyphen"/>ction of the <hi>publick Faith,</hi> the moſt certain ſecurity which could be imagined.</p>
+            <p n="6">6. <hi>John Dixwell,</hi> and ſome others of this Confederacy, uncapa<g ref="char:EOLhyphen"/>ble by ſickneſſe, or late intelligence, of appearing within the time limited, petitioned the Parliament for ſome few dayes more, in which to appear; but the grace of this Proclamation was denyed to be ex<g ref="char:EOLhyphen"/>tended one day longer, which ſure was ſome grace, to ſuch as in time conformed to it.</p>
+            <pb n="9" facs="tcp:65421:5"/>
+            <p n="7">7. The Houſe of Commons (Principally concerned, Chief and firſt Adviſers of this Gracious Proclamation) having determi<g ref="char:EOLhyphen"/>ned the number of Perſons to be made Examples of Dread, and undergo the utmoſt of the Law, Engroſſed, Paſſed, and Tranſmitted to the Lords, the <hi>Bill for Indemnity</hi> with a full and Expreſſe pardon as to theſe mens Lives; to which the Lords demurred, yet the Commons in three ſeveral conferences, aſ<g ref="char:EOLhyphen"/>ſerted the <hi>Publique faith and honour engaged by this Proclamation;</hi> which was accutely and ſolidly argued by Sir <hi>Heneag Finch</hi> his Majeſties Soliciter General, and Sir <hi>William Wild</hi> Re<g ref="char:EOLhyphen"/>corder of <hi>London,</hi> and other Honourable Members managing that Conference;) and being reſolved never to break the ſame, and thereby ſuggeſt to the World, the Proclamation was advi<g ref="char:EOLhyphen"/>ſed as a plauſible (not to ſay Perfideous) duckoy to flying birds: at laſt yielded to paſſe the Act, with a proviſo, <hi>They not to be Executed when Condemned, without an Act of Parliament or Bill to be paſſed for that purpoſe;</hi> which they reſolved ſhould never be by that Parliament, and it was more then probable, would ne<g ref="char:EOLhyphen"/>ver be by another; ſimple Execution being too odious for their debates, and determinations, and the ſecurity by the Procla<g ref="char:EOLhyphen"/>mation given, being by theſe debates made ſo legible, that all men might Run and Read, <hi>Theſe men could not ſuffer without high ſcandal,</hi> if not <hi>open violence,</hi> unto the Publique faith of the King<g ref="char:EOLhyphen"/>dome.</p>
+            <p n="8">8. Every of theſe men well documented (by the Parliaments debates and Declaration in the Act of Indemnity) did on their araignment, Convict themſelves, and in open Court plead the Proclamation, (as the benefit of Clergy) which was admitted; and ſo far declared by <hi>Sir Orlando Bridgman</hi> Lord Chief Juſtice in that Commiſſion; that the ſpectators (moſt fit and proper Expoſitors in all Judicial proceedings, which hath ever cauſed Courts of Judicature to be open) did underſtand, and conclude, <hi>though theſe men were Condemned, yet their lives were ſecured unto them.</hi>
+            </p>
+            <p>If Sir, theſe eight Conſiderations being put together, do not ſpel this Octo Sillabon, PUBLIQUE-FAITH-SECURING-THEIR-LIVES, as a thing legible to them and all ſober men reſolved into their caſe, to be rational<g ref="char:EOLhyphen"/>ly choſen, concluded and confided in, I muſt go again to School to learn my <hi>A. B. C.</hi> and will adviſe <hi>Baxter, Goffe,</hi>
+               <pb n="10" facs="tcp:65421:6"/>
+               <hi>Whaley</hi> and others, not truſting to the Proclamation, but ſe<g ref="char:EOLhyphen"/>curing their own lives, to write over every Gate, under every Quarter of theſe men, when executed, CREDULOUS FOOLS<hi>:</hi> And <hi>Dixwel</hi> and his fellow Petitioners to write over the door of the Houſe of Commons, who admitted not their ſurrendring themſelves BLESSED SEVERI<g ref="char:EOLhyphen"/>TY: The Condition of theſe men by confidence of grace, b<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ing rendred worſe then theirs that fled from it.</p>
+            <p>But ſome Zealous and Royal hearts, grudging the leaſt grace to ſuch Regicides, will object (that with which I have this long time paſſionately deceived my ſelf and others) and ſay, Sir, you diſcourſe of the nature of a Covenant, and plead for theſe Miſcreants lives, as if his Majeſty and the Parliament had paſ<g ref="char:EOLhyphen"/>ſed with them a formal and poſitive contract; whereas the Proclamation is a bare ſummons for ſuch (who in conſcience of their guilt) were fled, and obſcured, that they appear and abide the Tryal of the Law, which was their duty, without being directed by this Proclamation. To ſuch I crave leave to anſwer, I grant the Proclamation is a <hi>Summons</hi> to what was du<g ref="char:EOLhyphen"/>ty without it, nor can they deny it is <hi>Sub-paena</hi> which muſt ne<g ref="char:EOLhyphen"/>ceſſarily imply a Condition whereby the Pain may be void<g ref="char:EOLhyphen"/>ed, otherwiſe it is in vain expreſſed.</p>
+            <p>Sir, Civilians tell us of a <hi>Pactum vetans</hi> a Covenant of <hi>Prohi<g ref="char:EOLhyphen"/>bition</hi> 
+               <note place="margin">Grotius <hi>de jure bel.</hi> &amp; pa. lib 2. cap. 16.</note> uſed in humane ſociety, and declare <hi>pactum vetans magis vincit jubentem, quam poſitive jubens;</hi> it more ſtrongly obligeth the Superiour, then a poſitive precept; All Summons is a Co<g ref="char:EOLhyphen"/>venant of this nature, and therefore moſt ſacred and inviola<g ref="char:EOLhyphen"/>ble; So as that a <hi>Ceſſation</hi> from the thing forbidden, muſt ne<g ref="char:EOLhyphen"/>ceſſarily void the penaltie. Nature teacheth the Mother, with a rod in her hand, to call in the wild wanton child, on pain of being whipt, if overtaken and fetched in; The Child confiding in her words, returneth with ſpeed and eſcapeth the corrction; the General to ſummon a Gariſon to be yielded within 24. hours, on pain of burning to the Town, and ſlaughter to every man; They yield to the Summons, and are ſaved: Our Law directs a Proclamation on pain of an Out-law, the defendant appeareth and hath liberty of plea. His late Majeſty (as do all Princes in like caſe) ſummoned ſuch as followed the Earl of <note place="margin">Proclama<g ref="char:EOLhyphen"/>tion from <hi>York, Aug.</hi> 9. 1642.</note> 
+               <hi>Eſſ<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>x</hi> to lay down their Armes, and repair to their houſes with<g ref="char:EOLhyphen"/>in ſix dayes, on pain of being judged <hi>Rebells and Traytors;</hi> ſome
+<pb n="11" facs="tcp:65421:6"/>
+accordingly returned and avoided the penalty; in theſe and the like caſes the penalty could not be inflicted without bar<g ref="char:EOLhyphen"/>barous breach of faith and high diſhonour.</p>
+            <p>The nature, uſage, and obligation of <hi>A pactum vetans,</hi> is commended by many examples in Holy Writ, as <hi>Joabs</hi> Sum<g ref="char:EOLhyphen"/>mons of the City of <hi>Abell</hi> to render rebellious <hi>Sheba</hi> to Ju<g ref="char:EOLhyphen"/>ſtice, on pain of being ſacked: And <hi>Solomons</hi> confinement of <hi>Abiathar</hi> to his City <hi>Anathoth,</hi> and <hi>Shimey</hi> to his houſe on pain of Death; <hi>Abell</hi> did eſcape by the head of <hi>Sheba,</hi> nor had <hi>Shimey</hi> dyed if he had kept within his bounds as did <hi>Abia<g ref="char:EOLhyphen"/>thar.</hi>
+            </p>
+            <p>This Proclamation is a ſummons of duty but <hi>ſub poena;</hi> and ſo a <hi>Covenant</hi> though <hi>vetans,</hi> to the future Latencie of theſe men; the nature of the pain is their advantage; had it been (what is uſual in caſes of this nature) a Summons to appear on pain <hi>of being concluded guilty, and to ſuffer without mercy;</hi> their appearance had ſecured to them a due and fair tryal, in which to plead for their lives; but the <hi>pain of being excepted from par<g ref="char:EOLhyphen"/>don both for life and eſtate</hi> muſt needs ſecure them the one; other<g ref="char:EOLhyphen"/>wiſe what is the pain to be avoided by obedience to the prohi<g ref="char:EOLhyphen"/>bition?</p>
+            <p>This <hi>pactum vetans</hi> is ſo natural to men, ſo ſuitable to Sove<g ref="char:EOLhyphen"/>raign Majeſty, a ſecurity ſo ſacred and inviolably obliging in humane ſociety, that God himſelf maketh it his firſt tranſa<g ref="char:EOLhyphen"/>ction with his creature man; <hi>In the day thou eateſt thereof thou ſhalt die the death,</hi> was the form and tenure of the firſt Co<g ref="char:EOLhyphen"/>venant; Will any man deny the ſame to aſſure <hi>life</hi> on the condition of the preſcribed abſtinency from the forbidden fruit?</p>
+            <p>Civilians render three (I ſhall make them four) reaſons why a <hi>pactum vetans,</hi> a <hi>Covenant of prohibition</hi> ſhould more firmly oblige the preſcriber, than a poſitive precept, and more ex<g ref="char:EOLhyphen"/>preſs Covenant; every of theſe reaſons concurre in our Tray<g ref="char:EOLhyphen"/>tors caſe, to Corroborate their claim:</p>
+            <p n="1">1. The matter thereby prohibited is <hi>ſpecial,</hi> not general, <note place="margin">
+                  <hi>Cicero</hi> lib. 2. <hi>Grotius</hi> de jure bel. &amp; pac. pag. 262.</note> 
+               <hi>[obſcure not your ſelves from a legal Tryal]</hi> and their rule is, <hi>peculiare</hi> &amp; quod ad rem <hi>propius accedit, magis obligat quam gene<g ref="char:EOLhyphen"/>rale,</hi> what is ſpecial, and cometh neareſt the matter, doth more bind, than what is general and more remote.</p>
+            <pb n="12" facs="tcp:65421:7"/>
+            <p n="2">2. The time in ſuch Covenants is limited, which being ſlipt, they may ſit down and ſing that Cyrene ſong, <hi>Fronte ca<g ref="char:EOLhyphen"/>pillata poſt eſt occaſio calva, Oh that we had known in that our day the things which concerned our peace, but are now hid from our eyes. [appear and render your ſelves within fourteen dayes]</hi> Hence <hi>Dixwell</hi> and his fellow Petitioners, could not procure one day, to the grace exhibited in the Proclamation; the rule is <hi>quod fa<g ref="char:EOLhyphen"/>ciendum eſt certo tempore, magis obligat quam quod quovis tempore fieri poteſt;</hi> what is to be done in a certain time, bindeth more than what is to be done at any time.</p>
+            <p n="3">3. This kind of Covenant uſually paſſeth <hi>ſub poena;</hi> im<g ref="char:EOLhyphen"/>plying immunity and eſcape; [on pain of being excepted from any pardon both for life and eſtate] the rule is <hi>(quod poe<g ref="char:EOLhyphen"/>nam adjunctam habet, magis obligat quam quod poena vacat)</hi> a pro<g ref="char:EOLhyphen"/>hibition with penalty binds more than that without; they could be but drawn out of their Dens to Tyburn, if they had not appeared according to the Proclamation.</p>
+            <p n="4">4. The condition of the <hi>pactum vetans</hi> is preſcribed, not ca<g ref="char:EOLhyphen"/>pitulated, impoſed by Majeſty and Authority, condeſcending to mitigate ſeverity, and releaſe rigour; leaving the <hi>liberum arbitrium</hi> of the men concerned, to this bare choiſe, Come and appear within fourteen dayes, or be excepted from any pardon both for life and eſtate: (more than which cannot befal thoſe that are fled, and refuſed to appear) and this rule cannot be denied <hi>authoritate praeſcripta, magis obligant quam ca<g ref="char:EOLhyphen"/>pitulata;</hi> terms impoſed by authority do more ſtrictly binde; than terms capitulated upon a fair and equal Treaty.</p>
+            <p>
+               <hi>Sir,</hi> on the ſerious conſideration of theſe mens claim, I ſee not how it can be denied, they have the publick faith of the Kingdom engaged for their lives; the violation whereof muſt be greatly diſhonourable to the King and Parliament; yea, though by a Bill to be paſſed for their execution; which I humbly conceive is below a Parliament; who may (with more juſtice and honour) by their Legiſlative power, on poli<g ref="char:EOLhyphen"/>tique and prudent grounds, take away the life of one whom the Law cannot Convict and Condemn, than direct the exe<g ref="char:EOLhyphen"/>cution of them over whom the Law had full power, until barred by the force of publique faith, Rationally claimed to ſuperſede this laſt Act.</p>
+            <p>
+               <pb n="13" facs="tcp:65421:7"/>
+To pretend they were not a Parliament (who gave this ſe<g ref="char:EOLhyphen"/>curity) according to the ſtrictneſs of our Law, and Nations Conſtitution, will not make an objection of any ſtrength: For</p>
+            <p n="1">1. The queſtion is not about an ordinary proceſs in our Law; but a tranſaction purely determinable by the Civil Law; the rules of Common juſtice and honour among men.</p>
+            <p n="2">2. They were a full and free Convention, and Collective body of the Kingdom, capable to repreſent the Nation, and engage the faith thereof, though convened by a defective er<g ref="char:EOLhyphen"/>roneous Writ, through the neceſſity of the times, and eſtate of the Kingdom.</p>
+            <p n="3">3. They were the firſt free Parliament, the fruit of all the Convultions and Commotions occaſioned by our deſired li<g ref="char:EOLhyphen"/>berty, and we were to be ruled, and in all caſes reſolved by our own reaſons, declared by repreſentatives of our own choice.</p>
+            <p n="4">4. They were His Majeſties Parliament, convened for his ſake, to his happy and honourable return; (by which our Land hath been revived) legitimated by his adoption, anni<g ref="char:EOLhyphen"/>mated by his preſence, and corroborated by his concurrence; pardon being the eminent and undiſputable prerogative of his Imperial Crown; whoſe Royal Faith hereby engaged, in<g ref="char:EOLhyphen"/>violably ſecureth <hi>ſome grace</hi> to theſe poor wretches.</p>
+            <p>Theſe things do evidence that Parliament to have been ſufficiently capacitated to give an aſſurance by publique faith; which cannot be avoided by defect of a punctilio, or circum<g ref="char:EOLhyphen"/>ſtance peculiar to our Law; but doth ſo ſtrengthen theſe Pri<g ref="char:EOLhyphen"/>ſoners Gates and Barrs, that I cannot but profeſs, I ſee not how they can ever be drawn to execution, without drawing the guilt and diſgrace of cruelty, revenge and perfidie on a Faith-keeping Prince and Parliament, though by a Bill to be paſſed for that purpoſe.</p>
+            <p>Honoured Sir, Did theſe Traytors want this claim, or their claim want reaſon, yet common prudence, and the honour of His Majeſties Clemency now ſeemeth to me to be a confide<g ref="char:EOLhyphen"/>rable ſuperſedeas to the execution of them: For Sir,</p>
+            <p n="1">1. The ſplendor of His Majeſties Clemency (the <hi>
+                  <gap reason="illegible" resp="#UOM" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>eſſe</hi> ſay the Graecians, the honour of a Juſt man ſay the Romans)
+<pb n="14" facs="tcp:65421:8"/>
+being much clouded by the Univerſality of the Object (many ſingulars thinking they needed no Act of Grace, and ſome reſolved againſt an Act of Oblivion) doth ſparkle with ſuch Orient brightneſs, by the ſuperſeding the executi<g ref="char:EOLhyphen"/>on <note place="margin">
+                  <gap reason="illegible" resp="#UOM" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>ſtum<gap reason="illegible" resp="#UOM" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>le <gap reason="illegible" resp="#UOM" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>uia d<gap reason="illegible" resp="#UOM" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap> 
+                  <gap reason="illegible" resp="#UOM" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>.</note> of theſe Defamed, Convicted, Condemned Individuals: it hereby exiſting in its full proportion and very formality, (which <hi>Favorin<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+               </hi> thus defines <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>. And <hi>Grotius</hi> doth thus Tranſlateth, <hi>
+                  <gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ea quae di itur clementia apud homines eſt</hi> 
+               <note place="margin">
+                  <gap reason="illegible" resp="#UOM" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>e jure l. &amp; pa<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#UOM" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>, lib <gap reason="illegible" resp="#UOM" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>. <gap reason="illegible" resp="#UOM" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> 20 <gap reason="illegible" resp="#UOM" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>g 307.</note> 
+               <hi>te<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>peſt<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ca relaxatio ſummi juris,</hi> and I muſt Engliſh, <hi>Cle<g ref="char:EOLhyphen"/>mency</hi> is to ſave the life of a Malefactor tied up to the Gallows) that I cannot deſire to ſee it darkened by ſuch an Act as revenge may juſtly provoke, but the vulgar judging by ſence will not diſcern.</p>
+            <p n="2">2. The quality of theſe perſons, and their preſent Eſtate doth abate the fury conceived againſt them, they ſeem to be ſo weak in their Naturals, that their being Parliament men (which lead them into temptation) may be almoſt judged their greateſt Crime; they appear too ſimple to have been <hi>firſt Imaginers</hi> of that Horrid Regicide, or <hi>Agita<g ref="char:EOLhyphen"/>tors</hi> of that High Court (or to uſe his Majeſties phraſe) <hi>chief A<gap reason="illegible" resp="#UOM" extent="5 letters">
+                     <desc>•••••</desc>
+                  </gap>s of that Murther:</hi> And then Sir, they are not the intend<g ref="char:EOLhyphen"/>ed objects of the declared expectation from his Royal Grace and pardon; I cannot without ſmiling, remember how the poor mens Conſciences were troubled at the Terms, <hi>Trayterou<g ref="char:EOLhyphen"/>ſly maliciouſly,</hi> in their Indictment, (on which the Solicitor did accutely gloſs; My Lord, they think they might Sentence the King to Death, <hi>Meekly, Innocently, Charitably and Honeſtly)</hi> which certainly did ſo far beſpeak their ſimplicity; that had our Law allowed Acceſſaries in Treaſon, Judge and Jury would have ſaved them by their Clergy: How tremblingly did they beg to wave their Plea, (as if run into a premunire, by pleading <hi>not guilty)</hi> that they might confeſs and be hang'd, without this grace interpoſed? no doubt the Court was well pleaſed with their Profound Apologies; one pleading, <hi>I was young, in Infancy, eating ſower Grapes, not knowing they would ſet mine much leſs my Childrens teeth on edge,</hi> Another, <hi>I withstood, gainſaid that wicked Sentence<g ref="char:punc">▪</g> yet was ſimply drawn in to Sign and Seal the ſame;</hi> A third, <hi>I looked but over the Hedge, I appeared</hi>
+               <pb n="15" facs="tcp:65421:8"/>
+               <hi>once and again, among, and as a Member of that wicked P<gap reason="illegible" resp="#UOM" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>k with an intent to prevent their Miſchief, against which I got an Aſſembly man to pray with me.</hi> Yet Sir, Are theſe weak men condemned, attainted in Blood, their eſtate confiſcate, and by ſpending their miſerable lives in Priſon, as it were hanged in Chains, as mee<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap> 
+               <hi>loving Monuments, of God and the Kings Justice</hi> (which hath already ſwallowed up the Capital Offenders) and <hi>more laſting Spectacles of Dread</hi> to future Regicides, then their wither<g ref="char:EOLhyphen"/>ing Quarters are capable of; being a lively Comment on <hi>Pſal.</hi> 59. verſ. 11. <hi>Slay not them, leaſt my people forget it.</hi> For my part, I think <hi>Justice</hi> is not more orient by that reſtraint of Clemency, ſparing to thoſe men that little which is deareſt to them; then by the merciful reſerve of ſuch dreadful Specta<g ref="char:EOLhyphen"/>cles for men to behold and conſider; inſomuch that I could almoſt envy their very nature, and death it ſelf, which ere long will remove them from a piece of pitty, ſo prudently ſevere.</p>
+            <p n="3">3. The end of puniſhment muſt be <hi>Caution, not Revenge;</hi> Ex<g ref="char:EOLhyphen"/>cellent <note place="margin">
+                  <hi>Sen.</hi> de Clemen. chap. 1<gap reason="illegible" resp="#UOM" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>.</note> is the ſaying of <hi>Plato,</hi> 
+               <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>: and again, <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>.</p>
+            <p>Which the ſerious <hi>Seneca</hi> thus rendreth, <hi>Nemo prudens punit quia peccatum eſt, ſed ne peccatur; revocari enim praeterita non poſ<g ref="char:EOLhyphen"/>ſent, futura prohibentur;</hi> and again, <hi>ne homini quidem noce<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>im<gap reason="illegible" resp="#UOM" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> quia peccavit, ſed ne peccet, nec unquam ad praeterittum, ſed ad futurum referetur poena; non euim ira ſcitur ſed cavet.</hi> The God of Juſtice hath preſcribed puniſhment, that others <hi>might hear and fear, and do no more ſo wickedly;</hi> ſo far as the Execution of the ſame looketh back, it is <hi>revenge,</hi> and onely <hi>puniſhment</hi> by looking forward, at this end it muſt be level'd, and accord<g ref="char:EOLhyphen"/>ingly ſquared; <hi>poena ad paucos, metus ad omnes,</hi> is a rule direct<g ref="char:EOLhyphen"/>ing all Executions; Juſtice is ordinarily ſatisfied by the Exe<g ref="char:EOLhyphen"/>cution of a few chief Offenders; the cutting off the Multitude under the ſame guilt, is over Sanguinary and revengeful; Martial Law alloweth equal Mutiners in an Army, the chance of a Dice on a Drum Head, for the ſingle Example of their Mutinie. Prudent Princes ever proclaimed their Juſtice by the Execution of a few of the many Condemned Malefactors; <hi>Shebas</hi> Head was judged a ſufficient Sacrifice for the many Re<g ref="char:EOLhyphen"/>bels
+<pb n="16" facs="tcp:65421:9" rendition="simple:additions"/>
+he had ſeduced. Our King <hi>Henry</hi> the ſeventh made his Juſtice Triumph more in <hi>Lambert Symnels turning his ſpit;</hi> and <note place="margin">
+                  <hi>Speeds</hi> Hiſt.</note> 
+               <hi>Perkin Warbeck looking through the Iron Grates,</hi> then by the turn<g ref="char:EOLhyphen"/>ing the one or the other over the Ladder, though both were Counterfeit Pretenders to the Crown, unto bloody and dan<g ref="char:EOLhyphen"/>gerous Rebellions: His late <hi>Marryred Majesty</hi> charged his Son ſhould not Revenge (whileſt he could not but puniſh) his Death; and his Majeſty as obedient to the Charge, declared to <hi>except from all pardon, ſome few chief Authors of that Murther,</hi> the which the Commons firſt computed to be ſeven <gap reason="illegible" resp="#UOM" extent="2 letters">
+                  <desc>••</desc>
+               </gap> a ſufficient number.</p>
+            <p>Sir, Theſe things conſidered, were not the Faith and Ho<g ref="char:EOLhyphen"/>nour of this Kingdom engaged to ſecure the Lives of theſe Condemned Perſons; I could not but adore his Majeſties Cle<g ref="char:EOLhyphen"/>mency in their thus long reprieve, which I now deſire may continue; being convinced that ſuch who ſhall provoke our <hi>David,</hi> to cut off theſe <hi>Shimois</hi> (moſt wiſely confined to their proper places) will be found <hi>Abiſhas, ſons of</hi> Zerviah, <hi>too hard for him, and Adverſaries to him;</hi> who hereby maketh all the world to know he is <hi>King in England,</hi> graciouſly holding the ſword of Juſtice which juſtly hangs over, from falling on the neck of theſe Regicides.</p>
+            <p>Sir, pardon my plainneſſe and prolixity in this rude Diſ<g ref="char:EOLhyphen"/>courſe, for which if I be called to the Bar of the Houſe, for intermedling with the <hi>A<gap reason="illegible" resp="#UOM" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>anae Imperii,</hi> I muſt plead your Com<g ref="char:EOLhyphen"/>mand as my Commiſſion, and expect your defence of</p>
+            <closer>
+               <dateline>
+                  <date>
+                     <hi>August</hi> 20. 1661.</date>
+               </dateline>
+               <signed>Your most Humble and Obliged Servant, <hi>Philopater Philoroy.</hi>
+               </signed>
+            </closer>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:65421:9"/>
+         </div>
+      </body>
+   </text>
+</TEI>
